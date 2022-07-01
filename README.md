@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ghost7575gg
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# sobre min
+ola meu nome é @ghost7575gg
+- 👋 meu email é yago.carneiro@.pr.gov.br
+- 👀 eu estou interessado em aprender a programar novas linguagens
+- 🌱 eu estou aprendend  a programa recentemamente a linguagem de JavaScript e Scratch
+-
 
-<!---
-ghost7575gg/ghost7575gg is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
